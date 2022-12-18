@@ -1,0 +1,2051 @@
+<revista numero="2708" dataPublicacao="29/11/2022" diretoria="Contratos">
+  <despacho>
+    <codigo>135</codigo>
+    <titulo>Petição indeferida</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2020 000040-6</numero>
+      <peticoes>
+        <peticao>
+          <numero inid="Pt">880220002261</numero>
+          <requerente>
+            <nomeCompleto inid="Rq">ELETRONUCLEAR S.A.</nomeCompleto>
+          </requerente>
+        </peticao>
+      </peticoes>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>140</codigo>
+    <titulo>Pedido inexistente</titulo>
+    <processo-contrato>
+      <peticoes>
+        <peticao>
+          <numero inid="Pt">880220002278</numero>
+          <dataProtocolo inid="De">18/11/2022</dataProtocolo>
+          <requerente>
+            <nomeCompleto inid="Rq">ITALSOFA NORDESTE S.A.</nomeCompleto>
+          </requerente>
+        </peticao>
+      </peticoes>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>140</codigo>
+    <titulo>Pedido inexistente</titulo>
+    <processo-contrato>
+      <peticoes>
+        <peticao>
+          <numero inid="Pt">880220002307</numero>
+          <dataProtocolo inid="De">23/11/2022</dataProtocolo>
+          <requerente>
+            <nomeCompleto inid="Rq">SEOYON E-HWA FABRICACAO DE SISTEMA INTERIOR AUTOMOTIVO BRASIL LTDA.</nomeCompleto>
+          </requerente>
+        </peticao>
+      </peticoes>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>145</codigo>
+    <titulo>Exigência</titulo>
+    <processo-contrato>
+      <numero inid="Np">110848</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">BURGER KING COMPANY LLC</nomeCompleto>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">ZAMP S.A.</nomeCompleto>
+        </cessionaria>
+      </cessionarias>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>145</codigo>
+    <titulo>Exigência</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2014 000030-8</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">VALLOUREC OIL &amp; GAS FRANCE</nomeCompleto>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">VALLOUREC SOLUÇÕES TUBULARES DO BRASIL S/A</nomeCompleto>
+        </cessionaria>
+      </cessionarias>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>145</codigo>
+    <titulo>Exigência</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2016 000123-7</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">HUAWEI TECHNOLOGIES CO.LTD.</nomeCompleto>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">HUAWEI DO BRASIL TELECOMUNICAÇÕES LTDA</nomeCompleto>
+        </cessionaria>
+      </cessionarias>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>145</codigo>
+    <titulo>Exigência</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2016 000628-0</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">UP</nomeCompleto>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">UP GROUPE INVEST PARTICIAPAÇÕES LTDA.</nomeCompleto>
+        </cessionaria>
+      </cessionarias>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>145</codigo>
+    <titulo>Exigência</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2017 000366-6</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">GEBR. HELLER MASCHINENFABRIK GMBH</nomeCompleto>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">HELLER MAQUINAS OPERATRIZES INDUSTRIA E COMERCIO LTDA</nomeCompleto>
+        </cessionaria>
+      </cessionarias>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>145</codigo>
+    <titulo>Exigência</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2017 000394-1</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">VALLOUREC OIL &amp; GAS FRANCE</nomeCompleto>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">FMC TECHNOLOGIES DO BRASIL LTDA</nomeCompleto>
+        </cessionaria>
+      </cessionarias>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>145</codigo>
+    <titulo>Exigência</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2017 000567-7</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">KABUSHIKI KAISHA YAKULT HONSHA</nomeCompleto>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">YAKULT S.A. INDÚSTRIA E COMÉRCIO</nomeCompleto>
+        </cessionaria>
+      </cessionarias>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>145</codigo>
+    <titulo>Exigência</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2020 000008-2</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">TECHNIP N-POWER</nomeCompleto>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">TECHNIP BRASIL - ENGENHARIA, INSTALAÇÕES E APOIO MARÍTIMO LTDA.</nomeCompleto>
+        </cessionaria>
+      </cessionarias>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>145</codigo>
+    <titulo>Exigência</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2022 000194-7</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">PERLATOP S.A.</nomeCompleto>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">HRC FLORIANÓPOLIS COMERCIAL LTDA.</nomeCompleto>
+        </cessionaria>
+      </cessionarias>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>145</codigo>
+    <titulo>Exigência</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2022 000327-3</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">ROYAL DONUTS SUGAR GMBH</nomeCompleto>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">LAUWE GMBH</nomeCompleto>
+        </cessionaria>
+      </cessionarias>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>145</codigo>
+    <titulo>Exigência</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2022 000331-1</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">3 BRASSEURS INTERNATIONAL</nomeCompleto>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">3 BRASSEURS RESTAURANTE E CERVEJARIA ARTESANAL LTDA</nomeCompleto>
+        </cessionaria>
+      </cessionarias>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>145</codigo>
+    <titulo>Exigência</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2022 000347-8</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">VALLOUREC OIL &amp; GAS FRANCE</nomeCompleto>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">VALLOUREC SOLUÇÕES TUBULARES DO BRASIL S/A</nomeCompleto>
+        </cessionaria>
+      </cessionarias>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>145</codigo>
+    <titulo>Exigência</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2022 000567-5</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">MONSANTO DO BRASIL LTDA</nomeCompleto>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">COOPERATIVA AGROPECUARIA DO ALTO PARANAIBA</nomeCompleto>
+        </cessionaria>
+      </cessionarias>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>145</codigo>
+    <titulo>Exigência</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2022 000573-0</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">PAION UK LTD</nomeCompleto>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA.</nomeCompleto>
+        </cessionaria>
+      </cessionarias>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>145</codigo>
+    <titulo>Exigência</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2022 000575-6</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">FRIGEL FIRENZE S.P.A.</nomeCompleto>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">FRIGEL LATINO AMÉRICA INDÚSTRIA E COMÉRCIO DE MÁQUINAS DE RESFRIAMENTO LTDA.</nomeCompleto>
+        </cessionaria>
+      </cessionarias>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>145</codigo>
+    <titulo>Exigência</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2022 000582-9</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">MOTOCA SYSTEMS LTDA.</nomeCompleto>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">FUJI MOTORS COMERCIO DE AUTOMOVEIS LTDA</nomeCompleto>
+        </cessionaria>
+      </cessionarias>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>145</codigo>
+    <titulo>Exigência</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2022 000583-7</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">FERCEVCHEM CONSULTING, LLC</nomeCompleto>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">BRASKEM S.A.</nomeCompleto>
+        </cessionaria>
+      </cessionarias>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>145</codigo>
+    <titulo>Exigência</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2022 000584-5</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">UNIVERSIDADE FEDERAL DA PARAIBA</nomeCompleto>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">TECCIM SOLUCOES TECNOLOGICAS PARA OLEO E GAS LTDA</nomeCompleto>
+        </cessionaria>
+      </cessionarias>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>145</codigo>
+    <titulo>Exigência</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2022 000599-3</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">NEWTEC CY NV</nomeCompleto>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">HUGHES TELECOMUNICAÇÕES DO BRASIL LTDA.</nomeCompleto>
+        </cessionaria>
+      </cessionarias>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>150</codigo>
+    <titulo>Notificado o Requerimento de Averbação/Registro ou Petição</titulo>
+    <processo-contrato>
+      <numero inid="Np">080924</numero>
+      <peticoes>
+        <peticao>
+          <numero inid="Pt">880220002299</numero>
+          <dataProtocolo inid="De">22/11/2022</dataProtocolo>
+          <requerente>
+            <nomeCompleto inid="Rq">NESTLE BRASIL LTDA.</nomeCompleto>
+          </requerente>
+        </peticao>
+      </peticoes>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>150</codigo>
+    <titulo>Notificado o Requerimento de Averbação/Registro ou Petição</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2015 000194-3</numero>
+      <peticoes>
+        <peticao>
+          <numero inid="Pt">880220002297</numero>
+          <dataProtocolo inid="De">22/11/2022</dataProtocolo>
+          <requerente>
+            <nomeCompleto inid="Rq">BRAM - BRADESCO ASSET MANAGEMENT S.A DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS</nomeCompleto>
+          </requerente>
+        </peticao>
+      </peticoes>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>150</codigo>
+    <titulo>Notificado o Requerimento de Averbação/Registro ou Petição</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2015 000333-4</numero>
+      <peticoes>
+        <peticao>
+          <numero inid="Pt">880220002286</numero>
+          <dataProtocolo inid="De">21/11/2022</dataProtocolo>
+          <requerente>
+            <nomeCompleto inid="Rq">YAMAHA MOTOR DA AMAZÔNIA LTDA.</nomeCompleto>
+          </requerente>
+        </peticao>
+      </peticoes>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>150</codigo>
+    <titulo>Notificado o Requerimento de Averbação/Registro ou Petição</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2015 000461-6</numero>
+      <peticoes>
+        <peticao>
+          <numero inid="Pt">880220002305</numero>
+          <dataProtocolo inid="De">23/11/2022</dataProtocolo>
+          <requerente>
+            <nomeCompleto inid="Rq">FUCHS LUBRIFICANTES DO BRASIL LTDA.</nomeCompleto>
+          </requerente>
+        </peticao>
+      </peticoes>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>150</codigo>
+    <titulo>Notificado o Requerimento de Averbação/Registro ou Petição</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2015 000603-1</numero>
+      <peticoes>
+        <peticao>
+          <numero inid="Pt">880220002270</numero>
+          <dataProtocolo inid="De">17/11/2022</dataProtocolo>
+          <requerente>
+            <nomeCompleto inid="Rq">ELECTRICITE DE FRANCE</nomeCompleto>
+          </requerente>
+        </peticao>
+      </peticoes>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>150</codigo>
+    <titulo>Notificado o Requerimento de Averbação/Registro ou Petição</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2017 000102-7</numero>
+      <peticoes>
+        <peticao>
+          <numero inid="Pt">880220002262</numero>
+          <dataProtocolo inid="De">17/11/2022</dataProtocolo>
+          <requerente>
+            <nomeCompleto inid="Rq">ACUMENT BRASIL SISTEMAS DE FIXAÇÃO S.A.</nomeCompleto>
+          </requerente>
+        </peticao>
+      </peticoes>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>150</codigo>
+    <titulo>Notificado o Requerimento de Averbação/Registro ou Petição</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2019 000089-1</numero>
+      <peticoes>
+        <peticao>
+          <numero inid="Pt">880220002280</numero>
+          <dataProtocolo inid="De">18/11/2022</dataProtocolo>
+          <requerente>
+            <nomeCompleto inid="Rq">ITALSOFA NORDESTE S.A.</nomeCompleto>
+          </requerente>
+        </peticao>
+      </peticoes>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>150</codigo>
+    <titulo>Notificado o Requerimento de Averbação/Registro ou Petição</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2019 000179-0</numero>
+      <peticoes>
+        <peticao>
+          <numero inid="Pt">880220002294</numero>
+          <dataProtocolo inid="De">21/11/2022</dataProtocolo>
+          <requerente>
+            <nomeCompleto inid="Rq">HUGHES TELECOMUNICAÇÕES DO BRASIL LTDA.</nomeCompleto>
+          </requerente>
+        </peticao>
+      </peticoes>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>150</codigo>
+    <titulo>Notificado o Requerimento de Averbação/Registro ou Petição</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2020 000040-6</numero>
+      <peticoes>
+        <peticao>
+          <numero inid="Pt">880220002261</numero>
+          <dataProtocolo inid="De">17/11/2022</dataProtocolo>
+          <requerente>
+            <nomeCompleto inid="Rq">ELETRONUCLEAR S.A.</nomeCompleto>
+          </requerente>
+        </peticao>
+      </peticoes>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>150</codigo>
+    <titulo>Notificado o Requerimento de Averbação/Registro ou Petição</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2020 000283-2</numero>
+      <peticoes>
+        <peticao>
+          <numero inid="Pt">880220002288</numero>
+          <dataProtocolo inid="De">21/11/2022</dataProtocolo>
+          <requerente>
+            <nomeCompleto inid="Rq">FLEXTRONICS INTERNATIONAL TECNOLOGIA LTDA</nomeCompleto>
+          </requerente>
+        </peticao>
+      </peticoes>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>150</codigo>
+    <titulo>Notificado o Requerimento de Averbação/Registro ou Petição</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2021 000330-0</numero>
+      <peticoes>
+        <peticao>
+          <numero inid="Pt">880220002272</numero>
+          <dataProtocolo inid="De">17/11/2022</dataProtocolo>
+          <requerente>
+            <nomeCompleto inid="Rq">MUCAMBO S.A.</nomeCompleto>
+          </requerente>
+        </peticao>
+      </peticoes>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>150</codigo>
+    <titulo>Notificado o Requerimento de Averbação/Registro ou Petição</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2021 000331-9</numero>
+      <peticoes>
+        <peticao>
+          <numero inid="Pt">880220002273</numero>
+          <dataProtocolo inid="De">17/11/2022</dataProtocolo>
+          <requerente>
+            <nomeCompleto inid="Rq">MUCAMBO S.A.</nomeCompleto>
+          </requerente>
+        </peticao>
+      </peticoes>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>150</codigo>
+    <titulo>Notificado o Requerimento de Averbação/Registro ou Petição</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2021 000391-2</numero>
+      <peticoes>
+        <peticao>
+          <numero inid="Pt">880220002287</numero>
+          <dataProtocolo inid="De">21/11/2022</dataProtocolo>
+          <requerente>
+            <nomeCompleto inid="Rq">RELIGIOSAS DA INSTRUÇÃO CRISTÃ DO BRASIL</nomeCompleto>
+          </requerente>
+        </peticao>
+      </peticoes>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>150</codigo>
+    <titulo>Notificado o Requerimento de Averbação/Registro ou Petição</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2021 000529-0</numero>
+      <peticoes>
+        <peticao>
+          <numero inid="Pt">880220002281</numero>
+          <dataProtocolo inid="De">18/11/2022</dataProtocolo>
+          <requerente>
+            <nomeCompleto inid="Rq">KLABIN S.A.</nomeCompleto>
+          </requerente>
+        </peticao>
+      </peticoes>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>150</codigo>
+    <titulo>Notificado o Requerimento de Averbação/Registro ou Petição</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2021 000572-9</numero>
+      <peticoes>
+        <peticao>
+          <numero inid="Pt">880220002295</numero>
+          <dataProtocolo inid="De">22/11/2022</dataProtocolo>
+          <requerente>
+            <nomeCompleto inid="Rq">GC LOCAÇÃO DE EQUIPAMENTOS LTDA.</nomeCompleto>
+          </requerente>
+        </peticao>
+      </peticoes>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>150</codigo>
+    <titulo>Notificado o Requerimento de Averbação/Registro ou Petição</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2022 000152-1</numero>
+      <peticoes>
+        <peticao>
+          <numero inid="Pt">880220002282</numero>
+          <dataProtocolo inid="De">18/11/2022</dataProtocolo>
+          <requerente>
+            <nomeCompleto inid="Rq">HYUNDAI TRANSYS FABRICAÇÃO DE AUTOPEÇAS BRASIL LTDA</nomeCompleto>
+          </requerente>
+        </peticao>
+      </peticoes>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>150</codigo>
+    <titulo>Notificado o Requerimento de Averbação/Registro ou Petição</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2022 000194-7</numero>
+      <peticoes>
+        <peticao>
+          <numero inid="Pt">880220002269</numero>
+          <dataProtocolo inid="De">17/11/2022</dataProtocolo>
+          <requerente>
+            <nomeCompleto inid="Rq">HRC FLORIANÓPOLIS COMERCIAL LTDA.</nomeCompleto>
+          </requerente>
+        </peticao>
+      </peticoes>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>150</codigo>
+    <titulo>Notificado o Requerimento de Averbação/Registro ou Petição</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2022 000331-1</numero>
+      <peticoes>
+        <peticao>
+          <numero inid="Pt">880220002265</numero>
+          <dataProtocolo inid="De">17/11/2022</dataProtocolo>
+          <requerente>
+            <nomeCompleto inid="Rq">3 BRASSEUR</nomeCompleto>
+          </requerente>
+        </peticao>
+      </peticoes>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>150</codigo>
+    <titulo>Notificado o Requerimento de Averbação/Registro ou Petição</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2022 000470-9</numero>
+      <peticoes>
+        <peticao>
+          <numero inid="Pt">880220002291</numero>
+          <dataProtocolo inid="De">21/11/2022</dataProtocolo>
+          <requerente>
+            <nomeCompleto inid="Rq">GRI CORTE E BISELADO BRASIL S/A</nomeCompleto>
+          </requerente>
+        </peticao>
+      </peticoes>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>150</codigo>
+    <titulo>Notificado o Requerimento de Averbação/Registro ou Petição</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2022 000471-7</numero>
+      <peticoes>
+        <peticao>
+          <numero inid="Pt">880220002292</numero>
+          <dataProtocolo inid="De">21/11/2022</dataProtocolo>
+          <requerente>
+            <nomeCompleto inid="Rq">GRI FLANGES BRASIL FORJADOS DE ACO S/A</nomeCompleto>
+          </requerente>
+        </peticao>
+      </peticoes>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>150</codigo>
+    <titulo>Notificado o Requerimento de Averbação/Registro ou Petição</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2022 000472-5</numero>
+      <peticoes>
+        <peticao>
+          <numero inid="Pt">880220002293</numero>
+          <dataProtocolo inid="De">21/11/2022</dataProtocolo>
+          <requerente>
+            <nomeCompleto inid="Rq">GRI TOWER BRASIL ESTRUTURAS METÁLICAS S/A</nomeCompleto>
+          </requerente>
+        </peticao>
+      </peticoes>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>150</codigo>
+    <titulo>Notificado o Requerimento de Averbação/Registro ou Petição</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2022 000502-0</numero>
+      <peticoes>
+        <peticao>
+          <numero inid="Pt">880220002267</numero>
+          <dataProtocolo inid="De">17/11/2022</dataProtocolo>
+          <requerente>
+            <nomeCompleto inid="Rq">IMPORT TRADE COMERCIO, EXPORTACAO E DISTRIBUICAO LTDA</nomeCompleto>
+          </requerente>
+        </peticao>
+      </peticoes>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>150</codigo>
+    <titulo>Notificado o Requerimento de Averbação/Registro ou Petição</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2022 000591-8</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">CJ CHEILJEDANG CORPORATION</nomeCompleto>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">CJ DO BRASIL INDÚSTRIA E COMÉRCIO DE PRODUTOS ALIMENTÍCIOS LTDA</nomeCompleto>
+        </cessionaria>
+      </cessionarias>
+      <dataProtocolo inid="De">17/11/2022</dataProtocolo>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>150</codigo>
+    <titulo>Notificado o Requerimento de Averbação/Registro ou Petição</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2022 000592-6</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">SINTO BRASIL PRODUTOS LIMITADA.</nomeCompleto>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">SINTO PRESSENGE MÁQUINAS LIMITADA</nomeCompleto>
+        </cessionaria>
+      </cessionarias>
+      <dataProtocolo inid="De">17/11/2022</dataProtocolo>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>150</codigo>
+    <titulo>Notificado o Requerimento de Averbação/Registro ou Petição</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2022 000593-4</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">BOA SORTE COMERCIAL PRESENTES LTDA</nomeCompleto>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">LUNEL IMPORTACAO E EXPORTACAO LTDA</nomeCompleto>
+        </cessionaria>
+      </cessionarias>
+      <dataProtocolo inid="De">18/11/2022</dataProtocolo>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>150</codigo>
+    <titulo>Notificado o Requerimento de Averbação/Registro ou Petição</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2022 000594-2</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">CICLO ENGENHARIA LTDA</nomeCompleto>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">NEXER LABS DESENVOLVIMENTO E TECNOLOGIA S/A</nomeCompleto>
+        </cessionaria>
+      </cessionarias>
+      <dataProtocolo inid="De">18/11/2022</dataProtocolo>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>150</codigo>
+    <titulo>Notificado o Requerimento de Averbação/Registro ou Petição</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2022 000595-0</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">SEOYON E-HWA CO. LTD.</nomeCompleto>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">SEOYON E-HWA FABRICACAO DE SISTEMA INTERIOR AUTOMOTIVO BRASIL LTDA.</nomeCompleto>
+        </cessionaria>
+      </cessionarias>
+      <dataProtocolo inid="De">21/11/2022</dataProtocolo>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>150</codigo>
+    <titulo>Notificado o Requerimento de Averbação/Registro ou Petição</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2022 000596-9</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">KURABO INDUSTRIES LTD</nomeCompleto>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">KURASHIKI CHEMICAL PRODUCTS DO BRASIL LTDA.,</nomeCompleto>
+        </cessionaria>
+      </cessionarias>
+      <dataProtocolo inid="De">21/11/2022</dataProtocolo>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>150</codigo>
+    <titulo>Notificado o Requerimento de Averbação/Registro ou Petição</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2022 000597-7</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">INGRAX INDÚSTRIA E COMÉRCIO DE GRAXAS LTDA</nomeCompleto>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">POSTO LONGANA LTDA</nomeCompleto>
+        </cessionaria>
+      </cessionarias>
+      <dataProtocolo inid="De">22/11/2022</dataProtocolo>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>150</codigo>
+    <titulo>Notificado o Requerimento de Averbação/Registro ou Petição</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2022 000598-5</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">INGRAX INDÚSTRIA E COMÉRCIO DE GRAXAS LTDA</nomeCompleto>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">CALPEN PECAS AUTOMOTIVAS LTDA</nomeCompleto>
+        </cessionaria>
+      </cessionarias>
+      <dataProtocolo inid="De">22/11/2022</dataProtocolo>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>150</codigo>
+    <titulo>Notificado o Requerimento de Averbação/Registro ou Petição</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2022 000599-3</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">NEWTEC CY NV</nomeCompleto>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">HUGHES TELECOMUNICAÇÕES DO BRASIL LTDA.</nomeCompleto>
+        </cessionaria>
+      </cessionarias>
+      <dataProtocolo inid="De">22/11/2022</dataProtocolo>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>150</codigo>
+    <titulo>Notificado o Requerimento de Averbação/Registro ou Petição</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2022 000600-0</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">DSI - EMPREENDIMENTOS LTDA</nomeCompleto>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">CIL COMÉRCIO DE INFORMÁTICA LTDA</nomeCompleto>
+        </cessionaria>
+      </cessionarias>
+      <dataProtocolo inid="De">23/11/2022</dataProtocolo>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>150</codigo>
+    <titulo>Notificado o Requerimento de Averbação/Registro ou Petição</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2022 000601-9</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">FUNDAÇÃO UNIVERSIDADE DE BRASÍLIA</nomeCompleto>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">KRILLTECH NANOTECNOLOGIA AGRO S.A.</nomeCompleto>
+        </cessionaria>
+      </cessionarias>
+      <dataProtocolo inid="De">23/11/2022</dataProtocolo>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>150</codigo>
+    <titulo>Notificado o Requerimento de Averbação/Registro ou Petição</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2022 000602-7</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">HIAB AB</nomeCompleto>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">HIAB BRASIL GUINDASTES E SERVICOS LTDA.</nomeCompleto>
+        </cessionaria>
+      </cessionarias>
+      <dataProtocolo inid="De">23/11/2022</dataProtocolo>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>150</codigo>
+    <titulo>Notificado o Requerimento de Averbação/Registro ou Petição</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2022 000603-5</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">INGRAX INDÚSTRIA E COMÉRCIO DE GRAXAS LTDA</nomeCompleto>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">LUBRI ARCOS LTDA</nomeCompleto>
+        </cessionaria>
+      </cessionarias>
+      <dataProtocolo inid="De">24/11/2022</dataProtocolo>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>150</codigo>
+    <titulo>Notificado o Requerimento de Averbação/Registro ou Petição</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2022 000604-3</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">INGRAX INDÚSTRIA E COMÉRCIO DE GRAXAS LTDA</nomeCompleto>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">ALIANÇA COMERCIAL</nomeCompleto>
+        </cessionaria>
+      </cessionarias>
+      <dataProtocolo inid="De">24/11/2022</dataProtocolo>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>150</codigo>
+    <titulo>Notificado o Requerimento de Averbação/Registro ou Petição</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2022 000605-1</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">IMOLA DO BRASIL DISTRIBUIDORA DE PRODUTOS ÓPTICOS LTDA</nomeCompleto>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">AVODA ACESSORIOS EIRELI</nomeCompleto>
+        </cessionaria>
+      </cessionarias>
+      <dataProtocolo inid="De">24/11/2022</dataProtocolo>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>150</codigo>
+    <titulo>Notificado o Requerimento de Averbação/Registro ou Petição</titulo>
+    <processo-contrato>
+      <numero inid="Np">712022000497</numero>
+      <peticoes>
+        <peticao>
+          <numero inid="Pt">880220001826</numero>
+          <dataProtocolo inid="De">09/09/2022</dataProtocolo>
+          <requerente>
+            <nomeCompleto inid="Rq">SPES PHARMA LTDA</nomeCompleto>
+          </requerente>
+        </peticao>
+      </peticoes>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>150</codigo>
+    <titulo>Notificado o Requerimento de Averbação/Registro ou Petição</titulo>
+    <processo-contrato>
+      <numero inid="Np">812362</numero>
+      <peticoes>
+        <peticao>
+          <numero inid="Pt">880220002268</numero>
+          <dataProtocolo inid="De">17/11/2022</dataProtocolo>
+          <requerente>
+            <nomeCompleto inid="Rq">FESTO SE &amp; CO. KG</nomeCompleto>
+          </requerente>
+        </peticao>
+      </peticoes>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>184</codigo>
+    <titulo>Arquivamento de Processo</titulo>
+    <processo-contrato>
+      <numero inid="Np">070996</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">METRO INTERNATIONAL S/A</nomeCompleto>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">METRO JORNAL S.A.</nomeCompleto>
+        </cessionaria>
+      </cessionarias>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>184</codigo>
+    <titulo>Arquivamento de Processo</titulo>
+    <processo-contrato>
+      <numero inid="Np">120188</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">VOLMAR ANTONIO DA RÉ</nomeCompleto>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">ZEN ACESSÓRIOS PARA MÓVEIS LTDA</nomeCompleto>
+        </cessionaria>
+      </cessionarias>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>184</codigo>
+    <titulo>Arquivamento de Processo</titulo>
+    <processo-contrato>
+      <numero inid="Np">121097</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">BURGER KING CORPORATION</nomeCompleto>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">BGNE RESTAURANTES E COMÉRCIO DE ALIMENTOS S/A</nomeCompleto>
+        </cessionaria>
+      </cessionarias>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>184</codigo>
+    <titulo>Arquivamento de Processo</titulo>
+    <processo-contrato>
+      <numero inid="Np">121137</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">BURGER KING CORPORATION</nomeCompleto>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">ADISER COMERCIO DE ALIMENTOS LTDA</nomeCompleto>
+        </cessionaria>
+      </cessionarias>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>184</codigo>
+    <titulo>Arquivamento de Processo</titulo>
+    <processo-contrato>
+      <numero inid="Np">121138</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">BURGER KING CORPORATION</nomeCompleto>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">ADISER COMERCIO DE ALIMENTOS LTDA</nomeCompleto>
+        </cessionaria>
+      </cessionarias>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>184</codigo>
+    <titulo>Arquivamento de Processo</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2016 000390</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">FUJIFILM CORPORATION</nomeCompleto>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">FUJIFILM DO BRASIL LTDA.</nomeCompleto>
+        </cessionaria>
+      </cessionarias>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>184</codigo>
+    <titulo>Arquivamento de Processo</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2017 000018</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">UNIVERSITY-INDUSTRY COOPERATION GROUP OF KYUNG HEE UNIVERSITY</nomeCompleto>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">DONG-A ST CO., LTD.</nomeCompleto>
+        </cessionaria>
+      </cessionarias>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>184</codigo>
+    <titulo>Arquivamento de Processo</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2017 000333</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">NVH KOREA INC.</nomeCompleto>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">CAOA MONTADORA DE VEÍCULOS LTDA.</nomeCompleto>
+        </cessionaria>
+      </cessionarias>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>184</codigo>
+    <titulo>Arquivamento de Processo</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2017 000344</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">CSIRO-COMMONWEALTH SCIENTIFIC AND INDUSTRIAL RESEARCH ORGANIZATION</nomeCompleto>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">FIBRIA CELULOSE S/A</nomeCompleto>
+        </cessionaria>
+      </cessionarias>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>184</codigo>
+    <titulo>Arquivamento de Processo</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2018 000083</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">MOOG UNNA GMBH</nomeCompleto>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">MOOG DO BRASIL CONTROLES LTDA.</nomeCompleto>
+        </cessionaria>
+      </cessionarias>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>184</codigo>
+    <titulo>Arquivamento de Processo</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2021 000341</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">RAMADA INTERNATIONAL, INC.</nomeCompleto>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">E. HOTELARIA E TURISMO LTDA.</nomeCompleto>
+        </cessionaria>
+      </cessionarias>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>184</codigo>
+    <titulo>Arquivamento de Processo</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2022 000052</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">MAN YIM KWOK</nomeCompleto>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">UPPER TRADE IMPORTACAO E EXPORTACAO LTDA</nomeCompleto>
+        </cessionaria>
+      </cessionarias>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>184</codigo>
+    <titulo>Arquivamento de Processo</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2022 000456</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">MEINHARDT EPCM (INDIA) PRIVATE LIMITED</nomeCompleto>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">VALE S.A.</nomeCompleto>
+        </cessionaria>
+      </cessionarias>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>184</codigo>
+    <titulo>Arquivamento de Processo</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2022 000469</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">SABAF S.P.A.</nomeCompleto>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">SABAF DO BRASIL LTDA</nomeCompleto>
+        </cessionaria>
+      </cessionarias>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>185</codigo>
+    <titulo>Processo Arquivado</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2022 000326-5</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">KAPLAST INDUSTRIA DE PLASTICO LTDA</nomeCompleto>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">ASCENSUS TRADING &amp; LOGISTICA LTDA</nomeCompleto>
+        </cessionaria>
+      </cessionarias>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>185</codigo>
+    <titulo>Processo Arquivado</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2022 000473-3</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">GNOVA PARTICIPÁÇÕES LTDA.</nomeCompleto>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">GUIMARÃES BRASIL INDUSTRIA E ALIMENTOS LTDA.</nomeCompleto>
+        </cessionaria>
+      </cessionarias>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>350</codigo>
+    <titulo>Certificado expedido</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2017 000587-1</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">PROSEGUR CASH, S.A.</nomeCompleto>
+          <endereco>
+            <pais>
+              <nome inid="Pe">ESPANHA</nome>
+            </pais>
+          </endereco>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">PROSEGUR BRASIL S/A TRANSPORTADORA DE VALORES E SEGURANÇA</nomeCompleto>
+          <endereco>
+            <pais>
+              <nome inid="Ps">BRASIL</nome>
+            </pais>
+          </endereco>
+          <setor inid="Se">Atividades de transporte de valores</setor>
+        </cessionaria>
+      </cessionarias>
+      <dataProtocolo inid="De">25/07/2022</dataProtocolo>
+      <certificados>
+        <certificado>
+          <numero inid="Ca">702017000587/02</numero>
+          <naturezaDocumento inid="Nd">Aditivo nº1 de 01/11/2020 ao Contrato de 01/01/2017.</naturezaDocumento>
+          <textoObjeto inid="Ob">UM - Sublicença não exclusiva para os Registros de Marca relacionados no  item “Prazo de Vigência dos Direitos de Propriedade Industrial” - Alteração  dos itens “Objeto”, “Valor Declarado do Contrato”, “Prazo de Vigência  Declarado do Contrato” e “Prazo de Vigência dos Direitos de Propriedade Industrial”.</textoObjeto>
+          <siglaCategoria inid="Mc">USO DE MARCA</siglaCategoria>
+          <descricaoMoeda inid="Mo">EURO</descricaoMoeda>
+          <valorContrato inid="Va">Até 1% (um por cento) sobre as receitas operacionais a partir do dia 01/01/2020, nos termos dos Considerandos, item IV, da cláusula 1 e do Anexo I do Aditivo nº1.</valorContrato>
+          <prazoContrato inid="Pz">De 01/02/2022 até 11/08/2032.</prazoContrato>
+          <prazoVigenciaPI inid="Pv">De 01/02/2022 até 01/02/2032 para o Registro de Marca 828108846.  De 25/07/2022 até 29/07/2024 para o Registro de Marca 820679232; 21/10/2024 para os Registros de Marca 822378795, 822378809 e 822378833; 04/11/2024 para o Registro de Marca 822378841; 24/03/2025 para o Registro de Marca 828108862; 23/01/2028 para o Registro de Marca 828108820; 18/03/2028 para o Registro de Marca 828108854; 11/08/2032 para o Registro de Marca 815933363.</prazoVigenciaPI>
+          <observacao inid="Oc">1- A validade deste Certificado de Averbação está condicionada à regular situação dos Registros de Marca sublicenciados; 2- O presente altera e complementa o Certificado de Averbação nº 702017000587/01; 3- Faz parte do presente a CARTA/INPI/CGTEC/Nº1239/2022.</observacao>
+        </certificado>
+      </certificados>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>350</codigo>
+    <titulo>Certificado expedido</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2017 000638-0</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">CONSTRUCTION RESEARCH &amp; TECHNOLOGY GMBH</nomeCompleto>
+          <endereco>
+            <pais>
+              <nome inid="Pe">ALEMANHA</nome>
+            </pais>
+          </endereco>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">MASTER BUILDERS SOLUTIONS BRASIL INDÚSTRIA E COMÉRCIO DE QUÍMICOS PARA CONSTRUÇÃO LTDA</nomeCompleto>
+          <endereco>
+            <pais>
+              <nome inid="Ps">BRASIL</nome>
+            </pais>
+          </endereco>
+          <setor inid="Se">Fabricação de aditivos de uso industrial</setor>
+        </cessionaria>
+      </cessionarias>
+      <dataProtocolo inid="De">09/11/2022</dataProtocolo>
+      <certificados>
+        <certificado>
+          <numero inid="Ca">702017000638/03</numero>
+          <naturezaDocumento inid="Nd">Aditivo de 07/07/2022 ao Contrato de 15/12/2017 e ao Aditivo de 04/11/2020.</naturezaDocumento>
+          <textoObjeto inid="Ob">UM - Licença não exclusiva para os Registros de Marca listados no item  “Prazo de Vigência dos Direitos de Propriedade Industrial” - Alteração dos  itens &quot;Objeto&quot;, &quot;Valor Declarado do Contrato&quot;, &quot;Prazo de Vigência Declarado  do Contrato&quot; e &quot;Prazo de Vigência dos Direitos de Propriedade Industrial&quot;.</textoObjeto>
+          <siglaCategoria inid="Mc">USO DE MARCA</siglaCategoria>
+          <descricaoMoeda inid="Mo">EURO</descricaoMoeda>
+          <valorContrato inid="Va">1% (um por cento) sobre o valor total do faturamento líquido de todos os produtos comercializados pelo licenciado e vendidos a empresas terceiras, desconsiderando operações inter companhia, conforme disposto no Aditivo de 07/07/2022.</valorContrato>
+          <prazoContrato inid="Pz">De 09/11/2022 até 07/05/2032.</prazoContrato>
+          <prazoVigenciaPI inid="Pv">De 09/11/2022 até:  20/09/2023 para o Registro de Marca nº 800309901; 09/11/2023 para o Registro de Marca nº 816612790; 05/08/2024 para os Registros de Marca nºs 831010584, 831010592, 831010657, 831010614 e 831010622; 09/12/2024 para o Registro de Marca nº 831170808; 14/04/2025 para os Registros de Marca nºs 831268417, 831268441, 831268522, 831268549, 831268611 e 831272210; 22/04/2025 para os Registros de Marca nºs 831268425, 831268433, 831268476, 831268492 e 831268638; 19/05/2025 para os Registros de Marca nºs 831268590, 831268603, 831268620 e 831268646; 23/06/2025 para os Registros de Marca nºs 831272236 e 831272252; 15/08/2025 para o Registro de Marca nº 815633254; 22/03/2026 para os Registros de Marca nºs 840319355, 840319380, 840322674 e 840322682; 25/05/2026 para o Registro de Marca nº 006331025; 10/06/2026 para os Registros de Marca nºs 006352553 e 006352561; 12/07/2026 para o Registro de Marca nº 840455542; 04/07/2027 para os Registros de Marca nºs 831268557, 831268573 e 831268581; 25/08/2027 para o Registro de Marca nº 006588786; 12/12/2027 para o Registro de Marca nº 910166587; 02/05/2028 para o Registro de Marca nº 911173072; 19/06/2028 para os Registros de Marca nºs 911509879 e 911509887; 11/09/2028 para os Registros de Marca nºs 912337753 e 912337796; 06/11/2028 para os Registros de Marca nºs 912838124 e 912838191; 21/02/2029 para o Registro de Marca nº 813327024; 06/06/2029 para o Registro de Marca nº 813673666; 05/11/2029 para os Registros de Marca nºs 912838094 e 912838159; 22/12/2029 para o Registro de Marca nº 829242449; 04/01/2031 para o Registro de Marca nº 830010076; 15/03/2031 para o Registro de Marca nº 830010084; 03/01/2032 para o Registro de Marca nº 900271779; 07/05/2032 para os Registros de Marca nºs 821324705 e 821324691.</prazoVigenciaPI>
+          <observacao inid="Oc">1- A validade deste Certificado de Averbação está condicionada a regular situação das marcas licenciadas; 2- O presente altera e complementa os Certificados de Averbação nºs 702017000638/01 e 702017000638/02; 3- Faz presente a CARTA/INPI/CGTEC/Nº 1251/2022.</observacao>
+        </certificado>
+      </certificados>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>350</codigo>
+    <titulo>Certificado expedido</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2018 000364-2</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">ACUMENT GLOBAL TECHNOLOGIES BV</nomeCompleto>
+          <endereco>
+            <pais>
+              <nome inid="Pe">HOLANDA</nome>
+            </pais>
+          </endereco>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">EJOT-FEY SISTEMAS DE FIXACAO LTDA.</nomeCompleto>
+          <endereco>
+            <pais>
+              <nome inid="Ps">BRASIL</nome>
+            </pais>
+          </endereco>
+          <setor inid="Se">Fabricação de produtos de trefilados de metal padronizados</setor>
+        </cessionaria>
+      </cessionarias>
+      <dataProtocolo inid="De">28/06/2018</dataProtocolo>
+      <certificados>
+        <certificado>
+          <numero inid="Ca">702018000364/01</numero>
+          <naturezaDocumento inid="Nd">Contrato de 07/03/2018.</naturezaDocumento>
+          <textoObjeto inid="Ob">EP - Sublicença não exclusiva para exploração de patente nº PI0001901-1.  UM - Sublicença não exclusiva para uso dos registros de marca mencionados no item “Prazo de Vigência dos Direitos de Propriedade Industrial”.</textoObjeto>
+          <siglaCategoria inid="Mc">USO DE MARCA;EXPLORAÇÃO DE PATENTE</siglaCategoria>
+          <descricaoMoeda inid="Mo">EURO</descricaoMoeda>
+          <valorContrato inid="Va">A. Enquanto a Sócia Licenciada detiver pelo menos 50% da LICENCIADA, então a taxa de royalty será conforme segue (nos termos do Apêndice C do Contrato): - Para produtos da família TORX, conforme Apêndice C do contrato: 0,75% do Preço Líquido de Vendas a título de licença de uso de marca; - Para produtos da família TORX PLUS: a) 5% do Preço Líquido de Vendas a título de licença de exploração de patentes, quando o produto for coberto por uma ou mais patentes licenciadas, conforme Apêndice C do contrato; b) Quando as patentes estiverem expirado e/ou o produto não for coberto por qualquer patente, o royalty então será de 1% do Preço Líquido de Vendas sobre a licença de uso das marcas, conforme Apêndice C do contrato. - Para produtos da família TORX PARALOBE: a) 4% do Preço Líquido de Vendas, se as vendas totais do ano corrido anterior de Torx Paralobe forem inferiores a €1,5 milhão; b) 3,5% do Preço Líquido de Vendas, se as vendas totais do ano corrido anterior de Torx Paralobe forem de€1,5 milhão até €3 milhões; c) 2,5% do Preço Líquido de Vendas, se as vendas totais do ano corrido anterior de Torx Paralobe forem acima de €3 milhões. d) 1,0% do Preço Líquido de Vendas mediante expiração de todos os Direitos Licenciados de Patente cobrindo a venda ou fabricação do Produto Licenciado TorxParalobe.   B. Se a titularidade pela Sócia Licenciada da LICENCIADA ficar abaixo de 50%, então a taxa de royalty será conforme segue (nos termos do Apêndice C do Contrato): - Para produtos da família TORX, conforme Apêndice C do contrato: 1% do Preço Líquido de Vendas a título de licença de uso de marca; - Para produtos da família TORX PLUS: a) 5% do Preço Líquido de Vendas a título de licença de exploração de patentes, quando o produto for coberto por uma ou mais patentes licenciadas, conforme Apêndice C do contrato; b) Quando as patentes estiverem expirado e/ou o produto não for coberto por qualquer patente, o royalty então será de 1% do Preço Líquido de Vendas sobre a licença de uso das marcas, conforme Apêndice Cdo contrato. - Para produtos da família TORX PARALOBE: a) 4% do Preço Líquido de Vendas, se as vendas totais do ano corrido anterior de Torx Paralobe forem inferiores a €1,5 milhão; b) 3,5% do Preço Líquido de Vendas, se as vendas totais do ano corridoanterior de Torx Paralobe forem de€1,5 milhão até €3 milhões; c) 2,5% do Preço Líquido de Vendas, se as vendas totais do ano corrido anterior de Torx Paralobe forem acima de €3 milhões. d) 1,0% do Preço Líquido de Vendas mediante expiração de todos os Direitos Licenciados de Patente cobrindo a venda ou fabricação do Produto Licenciado TorxParalobe.</valorContrato>
+          <prazoContrato inid="Pz">De 12/10/2015 até 23/05/2025.</prazoContrato>
+          <prazoVigenciaPI inid="Pv">De 28/06/2018 até: 24/05/2020 para a Patente nº PI0001901-1. 21/12/2022 para o Registro de Marca nº 200071220; 30/11/2023 para o Registro de Marca nº 816656800; 23/05/2025 para o Registro de Marca nº 817353003.</prazoVigenciaPI>
+          <observacao inid="Oc">1) A validade deste Certificado de Averbação está condicionada à regular situação da patente e dos registros de Marcas licenciados. 2) A data final do &quot;Prazo de Vigência Declarado do Contrato&quot; respeitou a vigência do Registro de Marca n° 817353003, conforme o disposto no art. 13, inciso V do Anexo da Resolução INPI/PR nº 199/2017. 3) Faz parte do presente a Carta nº 1246/2022.</observacao>
+        </certificado>
+      </certificados>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>350</codigo>
+    <titulo>Certificado expedido</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2018 000365-0</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">ACUMENT GLOBAL TECHNOLOGIES BV</nomeCompleto>
+          <endereco>
+            <pais>
+              <nome inid="Pe">HOLANDA</nome>
+            </pais>
+          </endereco>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">METALURGICA FEY LTDA</nomeCompleto>
+          <endereco>
+            <pais>
+              <nome inid="Ps">BRASIL</nome>
+            </pais>
+          </endereco>
+          <setor inid="Se">Produção de artefatos estampados de metal</setor>
+        </cessionaria>
+      </cessionarias>
+      <dataProtocolo inid="De">28/06/2018</dataProtocolo>
+      <certificados>
+        <certificado>
+          <numero inid="Ca">702018000365/01</numero>
+          <naturezaDocumento inid="Nd">Contrato de 07/03/2018.</naturezaDocumento>
+          <textoObjeto inid="Ob">EP - Sublicença não exclusiva para exploração de patente nº PI0001901-1.  UM - Sublicença não exclusiva para uso dos registros de marca mencionados no item “Prazo de Vigência dos Direitos de Propriedade Industrial”.</textoObjeto>
+          <siglaCategoria inid="Mc">USO DE MARCA;EXPLORAÇÃO DE PATENTE</siglaCategoria>
+          <descricaoMoeda inid="Mo">EURO</descricaoMoeda>
+          <valorContrato inid="Va">- Taxa de Licença: EUR 5.000,00;  - Taxa de royalty por produto, nos termos do Apêndice C do Contrato:   i. Para produtos da família TORX: 1% sobre o Preço Líquido de Vendas a título de licença de uso de marca;  ii. Para produtos da família TORX PLUS:  a) 5% sobre o Preço Líquido de Vendas a título de licença de exploração de patentes, quando o produto for coberto por uma ou mais patentes licenciadas;  b) Quando as patentes estiverem expiradas e/ou o produto não for coberto por qualquer patente, o royalty então será de 1% sobre o Preço Líquido de Vendas a licença de uso das marcas.  iii. Para produtos da família TORX PARALOBE: a) 4% sobre o Preço Líquido de Vendas, se as vendas totais do ano corrido anterior de Torx Paralobe forem menores do que €1,5 milhão; b) 3,5% sobre o Preço Líquido de Vendas, se as vendas totais do ano corrido anterior de Torx Paralobe forem de €1,5 milhão até €3 milhões; c) 2,5% sobre o Preço Líquido de Vendas, se as vendas totais do ano corrido anterior de Torx Paralobe forem acima de €3 milhões. d) 1,0% sobre o Preço Líquido de Vendas, mediante expiração de todos os Direitos Licenciados de Patente cobrindo a venda ou fabricação do Produto Licenciado Torx Paralobe.  Obs: Sendo que os royalties previstos acima deverão obedecer aos seguintes critérios de pagamento mínimo anual: 2019: EUR 3000; 2020: EUR 5000; 2021 em diante: EUR 6000.</valorContrato>
+          <prazoContrato inid="Pz">De 03/10/2016 até 23/05/2025.</prazoContrato>
+          <prazoVigenciaPI inid="Pv">De 28/06/2018 até: 24/05/2020 para a Patente nº PI0001901-1. 21/12/2022 para o Registro de Marca nº 200071220; 30/11/2023 para o Registro de Marca nº 816656800; 23/05/2025 para o Registro de Marca nº 817353003.</prazoVigenciaPI>
+          <observacao inid="Oc">1) A validade deste Certificado de Averbação está condicionada à regular situação da patente e dos registros de Marcas licenciados. 2) A data final do &quot;Prazo de Vigência Declarado do Contrato&quot; respeitou a vigência do Registro de Marca n° 817353003, conforme o disposto no art. 13, inciso V do Anexo da Resolução INPI/PR nº 199/2017. 3) Faz parte do presente a Carta nº 1245/2022.</observacao>
+        </certificado>
+      </certificados>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>350</codigo>
+    <titulo>Certificado expedido</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2019 000646-6</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">THOMSON REUTERS BRASIL CONTEÚDO E TECNOLOGIA LTDA.</nomeCompleto>
+          <endereco>
+            <pais>
+              <nome inid="Pe">BRASIL</nome>
+            </pais>
+          </endereco>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">EDITORA REVISTA DOS TRIBUNAIS LTDA.</nomeCompleto>
+          <endereco>
+            <pais>
+              <nome inid="Ps">BRASIL</nome>
+            </pais>
+          </endereco>
+          <setor inid="Se">Edição de livros</setor>
+        </cessionaria>
+      </cessionarias>
+      <dataProtocolo inid="De">27/10/2022</dataProtocolo>
+      <certificados>
+        <certificado>
+          <numero inid="Ca">702019000646/03</numero>
+          <naturezaDocumento inid="Nd">Contrato de 01/11/2019.</naturezaDocumento>
+          <textoObjeto inid="Ob">UM - Licença não exclusiva para os Registros de Marca listados no item “Prazo de Vigência dos Direitos de Propriedade Industrial” - Alteração do item “Prazo de Vigência Declarado do Contrato” e “Prazo de Vigência dos Direitos de Propriedade Industrial”.</textoObjeto>
+          <siglaCategoria inid="Mc">USO DE MARCA</siglaCategoria>
+          <descricaoMoeda inid="Mo">REAL</descricaoMoeda>
+          <valorContrato inid="Va">1% da receita de assinaturas e vendas dos produtos.</valorContrato>
+          <prazoContrato inid="Pz">De 27/10/2022 até 01/11/2023.</prazoContrato>
+          <prazoVigenciaPI inid="Pv">De 27/10/2022 até: 19/10/23 para os Registros de Marca nºs 816592870, 816596450 e 816596476; 09/11/23 para os Registros de Marca nºs 816677603 e 816677611; 25/01/24 para o Registro de Marca nº 816701172; 01/04/24 para os Registros de Marca nºs 830773673 e 903059096; 17/06/24 para o Registro de Marca nº 903265508; 25/12/24 para o Registro de Marca nº 006023916; 28/12/24 para o Registro de Marca nº 821798979; 08/11/25 para o Registro de Marca nº 821931865; 15/12/25 para os Registros de Marca nºs 904487725, 904487628 e 904487466; 19/04/26 para os Registros de Marca nºs 906409942, 906409950 e 906409969; 16/05/26 para o Registro de Marca nº 822158183; 08/08/26 para o Registro de Marca nº 822291851; 29/10/26 para o Registro de Marca nº 817946268; 12/11/26 para o Registro de Marca nº 816138672; 14/02/27 para o Registro de Marca nº 906999022; 12/06/27 para os Registros de Marca nºs 825616840, 825616867 e 825616859; 25/06/27 para o Registro de Marca nº 006571239; 26/06/27 para o Registro de Marca nº 822351056; 14/08/27 para os Registros de Marca nºs 825997348 e 825996031; 24/10/27 para o Registro de Marca nº 908865147; 17/04/28 para os Registros de Marca nºs 910813019 e 910812942; 12/08/28 para os Registros de Marca nºs 825616794 e 825616786; 28/05/29 para o Registro de Marca nº 915002531; 26/06/31 para o Registro de Marca nº 819733695; 19/06/32 para os Registros de Marca nºs 901839027 e 901839019; 30/10/32 para os Registros de Marca nºs 902159020 e 902196600; 27/11/32 para o Registro de Marca nº 830465553.</prazoVigenciaPI>
+          <observacao inid="Oc">1- A validade deste Certificado de Averbação está condicionada à regular situação das marcas licenciadas; 2- O presente altera e complementa os Certificados de Averbação nºs 702019000646/01 e 702019000646/02.</observacao>
+        </certificado>
+      </certificados>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>350</codigo>
+    <titulo>Certificado expedido</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2021 000330-0</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">MAPA SAS</nomeCompleto>
+          <endereco>
+            <pais>
+              <nome inid="Pe">FRANÇA</nome>
+            </pais>
+          </endereco>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">MUCAMBO S.A.</nomeCompleto>
+          <endereco>
+            <pais>
+              <nome inid="Ps">BRASIL</nome>
+            </pais>
+          </endereco>
+          <setor inid="Se">Fabricação de artefatos de borracha não especificados anteriormente</setor>
+        </cessionaria>
+      </cessionarias>
+      <dataProtocolo inid="De">17/11/2022</dataProtocolo>
+      <certificados>
+        <certificado>
+          <numero inid="Ca">702021000330/02</numero>
+          <naturezaDocumento inid="Nd">Contrato de 01/01/2011.</naturezaDocumento>
+          <textoObjeto inid="Ob">UM - Licença não exclusiva para os Registros de Marca relacionados no item &quot;Prazo de Vigência dos Direitos de Propriedade Industrial&quot;. - Alteração do  item &quot;Prazo de Vigência Declarado do Contrato&quot;.</textoObjeto>
+          <siglaCategoria inid="Mc">USO DE MARCA</siglaCategoria>
+          <descricaoMoeda inid="Mo">EURO</descricaoMoeda>
+          <valorContrato inid="Va">1,5% (um e meio por cento) sobre as vendas líquidas.</valorContrato>
+          <prazoContrato inid="Pz">De 01/01/2023 até 31/12/2023.</prazoContrato>
+          <prazoVigenciaPI inid="Pv">De 17/11/2022 até:  06/04/2029 para o Registro de Marca 819649465; 28/12/2029 para o Registro de Marca 818413409; 24/04/2030 para o Registro de Marca 822803500.</prazoVigenciaPI>
+          <observacao inid="Oc">1- A validade deste Certificado de Averbação está condicionada a regular situação das Marcas licenciadas; 2- O presente altera e complementa o Certificado de Averbação nº 702021000330/01.</observacao>
+        </certificado>
+      </certificados>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>350</codigo>
+    <titulo>Certificado expedido</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2022 000153-0</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">CIE AUTOMOTIVE S.A.</nomeCompleto>
+          <endereco>
+            <pais>
+              <nome inid="Pe">ESPANHA</nome>
+            </pais>
+          </endereco>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">CIE FORJAS MINAS LTDA</nomeCompleto>
+          <endereco>
+            <pais>
+              <nome inid="Ps">BRASIL</nome>
+            </pais>
+          </endereco>
+          <setor inid="Se">Fabricação de outras peças e acessórios para veículos automotores não especificadas anteriormente</setor>
+        </cessionaria>
+      </cessionarias>
+      <dataProtocolo inid="De">02/11/2022</dataProtocolo>
+      <certificados>
+        <certificado>
+          <numero inid="Ca">702022000153/02</numero>
+          <naturezaDocumento inid="Nd">Contrato de 03/01/2022.</naturezaDocumento>
+          <textoObjeto inid="Ob">UM - Licença não exclusiva para o Registro de Marca 823219267. - Alteração do item “Cessionária”, em função de mudança de CNPJ e de endereço.</textoObjeto>
+          <siglaCategoria inid="Mc">USO DE MARCA</siglaCategoria>
+          <descricaoMoeda inid="Mo">EURO</descricaoMoeda>
+          <valorContrato inid="Va">De 1% (um por cento) a 5% (cinco por cento) das vendas líquidas das mercadorias, conforme cláusulas 2 e 3 do Contrato.</valorContrato>
+          <prazoContrato inid="Pz">De 02/11/2022 até 11/03/2028.</prazoContrato>
+          <prazoVigenciaPI inid="Pv">De 08/03/2022 até 11/03/2028 para o Registro de Marca 823219267.</prazoVigenciaPI>
+          <observacao inid="Oc">1- A validade deste Certificado de Averbação está condicionada à regular situação da marca licenciada; 2- O presente altera e complementa o Certificado de Averbação nº 702022000153/01.</observacao>
+        </certificado>
+      </certificados>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>350</codigo>
+    <titulo>Certificado expedido</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2022 000417-2</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">PROSEGUR CASH, S.A.</nomeCompleto>
+          <endereco>
+            <pais>
+              <nome inid="Pe">ESPANHA</nome>
+            </pais>
+          </endereco>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">PROSEGUR SERVIÇOS E PARTICIPAÇÕES SOCIETÁRIAS S.A.</nomeCompleto>
+          <endereco>
+            <pais>
+              <nome inid="Ps">BRASIL</nome>
+            </pais>
+          </endereco>
+          <setor inid="Se">Outras sociedades de participação, exceto holdings</setor>
+        </cessionaria>
+      </cessionarias>
+      <dataProtocolo inid="De">25/07/2022</dataProtocolo>
+      <certificados>
+        <certificado>
+          <numero inid="Ca">702022000417/01</numero>
+          <naturezaDocumento inid="Nd">Contrato de 01/01/2017 e Aditamento de 01/11/2020.</naturezaDocumento>
+          <textoObjeto inid="Ob">UM - Sublicença não exclusiva para os Registros de Marca 820679232, 828108820, 828108854 e 828108862.</textoObjeto>
+          <siglaCategoria inid="Mc">USO DE MARCA</siglaCategoria>
+          <descricaoMoeda inid="Mo">EURO</descricaoMoeda>
+          <valorContrato inid="Va">Taxa de 2,83% (dois vírgula oitenta e três por cento) sobre as receitas operacionais quando as marcas proporcionarem um rendimento completo, ou taxa de 1,57% (um vírgula cinquenta e sete por cento) sobre as receitas operacionais quando as marcas proporcionarem um rendimento limitado, nos termos do Anexo B do Aditivo.</valorContrato>
+          <prazoContrato inid="Pz">De 25/07/2018 até 18/03/2028.</prazoContrato>
+          <prazoVigenciaPI inid="Pv">De 25/07/2018 até  29/07/2024 para o Registro de Marca 820679232; 24/03/2025 para o Registro de Marca 828108862; 23/01/2028 para o Registro de Marca 828108820; 18/03/2028 para o Registro de Marca 828108854.</prazoVigenciaPI>
+          <observacao inid="Oc">1- A validade do presente Certificado de Averbação está condicionada à regular situação das marcas licenciadas.</observacao>
+        </certificado>
+      </certificados>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>350</codigo>
+    <titulo>Certificado expedido</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2022 000418-0</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">PROSEGUR CASH, S.A.</nomeCompleto>
+          <endereco>
+            <pais>
+              <nome inid="Pe">ESPANHA</nome>
+            </pais>
+          </endereco>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">PROSEGUR LOGÍSTICA E ARMAZENAMENTO LTDA.</nomeCompleto>
+          <endereco>
+            <pais>
+              <nome inid="Ps">BRASIL</nome>
+            </pais>
+          </endereco>
+          <setor inid="Se">Depósitos de mercadorias para terceiros, exceto armazéns gerais e guarda-móveis</setor>
+        </cessionaria>
+      </cessionarias>
+      <dataProtocolo inid="De">25/07/2022</dataProtocolo>
+      <certificados>
+        <certificado>
+          <numero inid="Ca">702022000418/01</numero>
+          <naturezaDocumento inid="Nd">Contrato de 13/07/2018 e Aditamento de 01/11/2020.</naturezaDocumento>
+          <textoObjeto inid="Ob">UM - Sublicença não exclusiva para os Registros de Marca 820679232, 828108820, 828108854 e 828108862.</textoObjeto>
+          <siglaCategoria inid="Mc">USO DE MARCA</siglaCategoria>
+          <descricaoMoeda inid="Mo">EURO</descricaoMoeda>
+          <valorContrato inid="Va">Taxa de 2,83% (dois vírgula oitenta e três por cento) sobre as receitas operacionais quando as marcas proporcionarem um rendimento completo, ou taxa de 1,57% (um vírgula cinquenta e sete por cento) sobre as receitas operacionais quando as marcas proporcionarem um rendimento limitado, nos termos do Anexo B do Aditivo.</valorContrato>
+          <prazoContrato inid="Pz">De 25/07/2018 até 18/03/2028.</prazoContrato>
+          <prazoVigenciaPI inid="Pv">De 25/07/2022 até 29/07/2024 para o Registro de Marca 820679232; 24/03/2025 para o Registro de Marca 828108862; 23/01/2028 para o Registro de Marca 828108820; 18/03/2028 para o Registro de Marca 828108854.</prazoVigenciaPI>
+          <observacao inid="Oc">1- A validade do presente Certificado de Averbação está condicionada à regular situação das marcas licenciadas.</observacao>
+        </certificado>
+      </certificados>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>350</codigo>
+    <titulo>Certificado expedido</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2022 000419-9</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">PROSEGUR CASH, S.A.</nomeCompleto>
+          <endereco>
+            <pais>
+              <nome inid="Pe">ESPANHA</nome>
+            </pais>
+          </endereco>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">LOG CRED TECNOLOGIA COMERCIO E SERVIÇOS LTDA</nomeCompleto>
+          <endereco>
+            <pais>
+              <nome inid="Ps">BRASIL</nome>
+            </pais>
+          </endereco>
+          <setor inid="Se">Comércio atacadista de componentes eletrônicos e equipamentos de telefonia e comunicação</setor>
+        </cessionaria>
+      </cessionarias>
+      <dataProtocolo inid="De">25/07/2022</dataProtocolo>
+      <certificados>
+        <certificado>
+          <numero inid="Ca">702022000419/01</numero>
+          <naturezaDocumento inid="Nd">Contrato de 13/07/2018 e Aditamento de 01/11/2020.</naturezaDocumento>
+          <textoObjeto inid="Ob">UM - Sublicença não exclusiva para os Registros de Marca 820679232, 828108820, 828108854 e 828108862.</textoObjeto>
+          <siglaCategoria inid="Mc">USO DE MARCA</siglaCategoria>
+          <descricaoMoeda inid="Mo">EURO</descricaoMoeda>
+          <valorContrato inid="Va">Taxa de 2,83% (dois vírgula oitenta e três por cento) sobre as receitas operacionais quando as marcas proporcionarem um rendimento completo, ou taxa de 1,57% (um vírgula cinquenta e sete por cento) sobre as receitas operacionais quando as marcas proporcionarem um rendimento limitado, nos termos do Anexo B do Aditivo.</valorContrato>
+          <prazoContrato inid="Pz">De 25/07/2018 até 18/03/2028.</prazoContrato>
+          <prazoVigenciaPI inid="Pv">De 25/07/2022 até 29/07/2024 para o Registro de Marca 820679232; 24/03/2025 para o Registro de Marca 828108862; 23/01/2028 para o Registro de Marca 828108820; 18/03/2028 para o Registro de Marca 828108854.</prazoVigenciaPI>
+          <observacao inid="Oc">1- A validade do presente Certificado de Averbação está condicionada à regular situação das marcas sublicenciadas.</observacao>
+        </certificado>
+      </certificados>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>350</codigo>
+    <titulo>Certificado expedido</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2022 000420-2</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">PROSEGUR CASH, S.A.</nomeCompleto>
+          <endereco>
+            <pais>
+              <nome inid="Pe">ESPANHA</nome>
+            </pais>
+          </endereco>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">PROS SERVIÇOS DE MANUTENÇÃO LTDA.</nomeCompleto>
+          <endereco>
+            <pais>
+              <nome inid="Ps">BRASIL</nome>
+            </pais>
+          </endereco>
+          <setor inid="Se">Reparação e manutenção de computadores e de equipamentos periféricos</setor>
+        </cessionaria>
+      </cessionarias>
+      <dataProtocolo inid="De">25/07/2022</dataProtocolo>
+      <certificados>
+        <certificado>
+          <numero inid="Ca">702022000420/01</numero>
+          <naturezaDocumento inid="Nd">Contrato de 13/07/2018 e Aditamento de 01/11/2020.</naturezaDocumento>
+          <textoObjeto inid="Ob">UM - Sublicença não exclusiva para os Registros de Marca 820679232, 828108820, 828108854 e 828108862.</textoObjeto>
+          <siglaCategoria inid="Mc">USO DE MARCA</siglaCategoria>
+          <descricaoMoeda inid="Mo">EURO</descricaoMoeda>
+          <valorContrato inid="Va">Taxa de 2,83% (dois vírgula oitenta e três por cento) sobre as receitas operacionais quando as marcas proporcionarem um rendimento completo, ou taxa de 1,57% (um vírgula cinquenta e sete por cento) sobre as receitas operacionais quando as marcas proporcionarem um rendimento limitado, nos termos do Anexo B do Aditivo.</valorContrato>
+          <prazoContrato inid="Pz">De 13/07/2018 até 18/03/2028.</prazoContrato>
+          <prazoVigenciaPI inid="Pv">De 25/07/2022 até 29/07/2024 para o Registro de Marca 820679232; 24/03/2025 para o Registro de Marca 828108862; 23/01/2028 para o Registro de Marca 828108820; 18/03/2028 para o Registro de Marca 828108854.</prazoVigenciaPI>
+          <observacao inid="Oc">1- A validade do presente Certificado de Averbação está condicionada à regular situação das marcas sublicenciadas.</observacao>
+        </certificado>
+      </certificados>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>350</codigo>
+    <titulo>Certificado expedido</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2022 000421-0</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">PROSEGUR CASH, S.A.</nomeCompleto>
+          <endereco>
+            <pais>
+              <nome inid="Pe">ESPANHA</nome>
+            </pais>
+          </endereco>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">PROSEGUR PAY CONSULTORIA EM TECNOLOGIA DA INFORMAÇÃO LTDA.</nomeCompleto>
+          <endereco>
+            <pais>
+              <nome inid="Ps">BRASIL</nome>
+            </pais>
+          </endereco>
+          <setor inid="Se">Atividades de intermediação e agenciamento de serviços e negócios em geral, exceto imobiliários</setor>
+        </cessionaria>
+      </cessionarias>
+      <dataProtocolo inid="De">25/07/2022</dataProtocolo>
+      <certificados>
+        <certificado>
+          <numero inid="Ca">702022000421/01</numero>
+          <naturezaDocumento inid="Nd">Contrato de 04/04/2019 e Aditamento de 01/11/2020.</naturezaDocumento>
+          <textoObjeto inid="Ob">UM - Sublicença não exclusiva para os Registros de Marca 820679232, 828108820, 828108854 e 828108862.</textoObjeto>
+          <siglaCategoria inid="Mc">USO DE MARCA</siglaCategoria>
+          <descricaoMoeda inid="Mo">EURO</descricaoMoeda>
+          <valorContrato inid="Va">Taxa de 2,83% (dois vírgula oitenta e três por cento) sobre as receitas operacionais quando as marcas proporcionarem um rendimento completo, ou taxa de 1,57% (um vírgula cinquenta e sete por cento) sobre as receitas operacionais quando as marcas proporcionarem um rendimento limitado, nos termos do Anexo B do Aditivo.</valorContrato>
+          <prazoContrato inid="Pz">De 04/04/2019 até 18/03/2028.</prazoContrato>
+          <prazoVigenciaPI inid="Pv">De 25/07/2022 até 29/07/2024 para o Registro de Marca 820679232; 24/03/2025 para o Registro de Marca 828108862; 23/01/2028 para o Registro de Marca 828108820; 18/03/2028 para o Registro de Marca 828108854.</prazoVigenciaPI>
+          <observacao inid="Oc">1- A validade do presente Certificado de Averbação está condicionada á regular situação das marcas sublicenciadas.</observacao>
+        </certificado>
+      </certificados>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>350</codigo>
+    <titulo>Certificado expedido</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2022 000426-1</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">SCHAEFFLER TECHNOLOGIES AG &amp; CO. KG</nomeCompleto>
+          <endereco>
+            <pais>
+              <nome inid="Pe">ALEMANHA</nome>
+            </pais>
+          </endereco>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">SCHAEFFLER BRASIL LTDA</nomeCompleto>
+          <endereco>
+            <pais>
+              <nome inid="Ps">BRASIL</nome>
+            </pais>
+          </endereco>
+          <setor inid="Se">Fabricação de outras peças e acessórios para veículos automotores não especificadas anteriormente</setor>
+        </cessionaria>
+      </cessionarias>
+      <dataProtocolo inid="De">29/07/2022</dataProtocolo>
+      <certificados>
+        <certificado>
+          <numero inid="Ca">702022000426/01</numero>
+          <naturezaDocumento inid="Nd">Contrato de 30/06/2022.</naturezaDocumento>
+          <textoObjeto inid="Ob">FT - Fabricação de rolamentos, mancais, embreagens, componentes de motor a combustão.</textoObjeto>
+          <siglaCategoria inid="Mc">FORNECIMENTO DE TECNOLOGIA</siglaCategoria>
+          <descricaoMoeda inid="Mo">DOLAR DOS ESTADOS UNIDOS</descricaoMoeda>
+          <valorContrato inid="Va">Taxa de 5,0% (cinco por cento) das vendas líquidas dos produtos contratuais,  nos termos da clausula 6 do Contrato.</valorContrato>
+          <prazoContrato inid="Pz">De 01/08/2022 até 01/08/2027.</prazoContrato>
+          <prazoVigenciaPI inid="Pv"></prazoVigenciaPI>
+        </certificado>
+      </certificados>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>350</codigo>
+    <titulo>Certificado expedido</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2022 000463-6</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">OUTOTEC GMBH &amp; CO. KG</nomeCompleto>
+          <endereco>
+            <pais>
+              <nome inid="Pe">ALEMANHA</nome>
+            </pais>
+          </endereco>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">COMPANHIA BRASILEIRA DE ALUMÍNIO</nomeCompleto>
+          <endereco>
+            <pais>
+              <nome inid="Ps">BRASIL</nome>
+            </pais>
+          </endereco>
+          <setor inid="Se">METALURGIA DO ALUMÍNIO E SUAS LIGAS</setor>
+        </cessionaria>
+      </cessionarias>
+      <dataProtocolo inid="De">22/08/2022</dataProtocolo>
+      <certificados>
+        <certificado>
+          <numero inid="Ca">702022000463/01</numero>
+          <naturezaDocumento inid="Nd">Fatura nº 90640655 de 28/07/2022.</naturezaDocumento>
+          <textoObjeto inid="Ob">SAT - Serviços de engenharia básica e detalhada da atualização de segurança  BMS e elaboração de documentação e especificação técnica da estação  principal H2 (rack de válvulas), incluindo instrumentos para consulta e  aquisição pela cessionária, especificação técnica dos instrumentos adicionais na planta do Calcinador 6, alimentando o BMS/SS para consulta e aquisição pela cessionária.</textoObjeto>
+          <siglaCategoria inid="Mc">SERVIÇO DE ASSISTÊNCIA TÉCNICA E CIENTÍFICA</siglaCategoria>
+          <descricaoMoeda inid="Mo">EURO</descricaoMoeda>
+          <valorContrato inid="Va">EUR 693.000,00.</valorContrato>
+          <formaPagamento inid="Pg">Taxa/hora variando de EUR 169,26 até EUR 220,67.</formaPagamento>
+          <prazoContrato inid="Pz">De 15/08/2022 até 15/02/2023.</prazoContrato>
+          <prazoVigenciaPI inid="Pv"></prazoVigenciaPI>
+        </certificado>
+      </certificados>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>350</codigo>
+    <titulo>Certificado expedido</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2022 000569-1</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">NV BEKAERT S.A.</nomeCompleto>
+          <endereco>
+            <pais>
+              <nome inid="Pe">BÉLGICA</nome>
+            </pais>
+          </endereco>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">BMB - BELGO MINEIRA BEKAERT ARTEFATOS DE ARAME LTDA.</nomeCompleto>
+          <endereco>
+            <pais>
+              <nome inid="Ps">BRASIL</nome>
+            </pais>
+          </endereco>
+          <setor inid="Se">Fabricação de produtos de trefilados de metal padronizados</setor>
+        </cessionaria>
+      </cessionarias>
+      <dataProtocolo inid="De">28/10/2022</dataProtocolo>
+      <certificados>
+        <certificado>
+          <numero inid="Ca">702022000569/01</numero>
+          <naturezaDocumento inid="Nd">Contrato de 27/10/2022.</naturezaDocumento>
+          <textoObjeto inid="Ob">EP - Licença não exclusiva para as Patentes e para os Pedidos de Patente  relacionados no item “Prazo de Vigência dos Direitos de Propriedade  Industrial”; FT - Fabricação de Fio de Aço Trançado (Tire Cord), Fio de Aço Trefilado  (Hose Wire), Fio de Aço Hexagonal (Hexagonal Bead Wire) e Arame de Aço para Reforço do Talão de Pneu (Bead Wire), incluídos treinamento e assistência técnica; EDI - Licença não exclusiva para o Registro de Desenho Industrial DI6402093-2.</textoObjeto>
+          <siglaCategoria inid="Mc">EXPLORAÇÃO DE PATENTE;FORNECIMENTO DE TECNOLOGIA;EXPLORAÇÃO DE DESENHO INDUSTRIAL</siglaCategoria>
+          <descricaoMoeda inid="Mo">EURO</descricaoMoeda>
+          <valorContrato inid="Va">EP: &quot;NIHIL&quot;; FT: - Pela tecnologia:  i) 3,5% (três vírgula cinco por cento) do valor de venda líquido do Fio de Aço Trançado (Tire Cord), do Fio de Aço Trefilado (Hose Wire) e do Fio de Aço Hexagonal (Hexagonal Bead Wire) fabricados e vendidos pela cessionária; ii) 1,1% (um vírgula um por cento) do Arame de Aço para Reforço do Talão de Pneu (Bead Wire) fabricado e vendido pela cessionária; - Pela assistência técnica: -; EDI: &quot;NIHIL&quot;.</valorContrato>
+          <formaPagamento inid="Pg">Taxas/dia variando de EUR 450,00 até EUR 1.150,00.</formaPagamento>
+          <prazoContrato inid="Pz">De 28/10/2022 até 28/10/2027.</prazoContrato>
+          <prazoVigenciaPI inid="Pv">De 28/10/2022 até:  31/03/2024 para a Patente PI0418686-9; 08/04/2024 para a Patente PI0418685-0; 29/11/2026 para a Patente PI0621667-6; 26/06/2028 para a Patente PI0510982-5; 25/09/2028 para as Patentes PI0418931-0 e PI0614846-8; 13/02/2029 para a Patente PI0911621-4; 25/02/2029 para a Patente PI0908575-0; 08/12/2029 para a Patente PI0922581-1; 07/12/2031 para a Patente BR112013017567-2; 21/12/2031 para a Patente BR112013015116-1; 24/07/2032 para as Patentes BR112014017453-9 e BR112014017588-8; 18/07/2034 para a Patente BR112016001155-4; 08/01/2035 para a Patente BR112016014335-3; 10/03/2035 para a Patente BR112016020872-2; 07/04/2035 para a Patente BR112016022535-0; 02/07/2035 para a Patente BR112017000707-0; 16/09/2035 para a Patente BR112017007522-9; 05/02/2036 para a Patente BR112017015830-2; 30/03/2036 para a Patente BR112017023633-8; 06/07/2036 para a Patente BR112017028021-3; 15/03/2037 para a Patente BR112018016994-3; a concessão das Cartas Patentes para os Pedidos de Patente BR112016024857-0, BR112018076531-7, BR112020002211-0, BR112020003761-3, BR112020007594-9, BR112020010576-7, BR112020012742-6, BR112020021025-0, BR112021005116-3, BR112021005157-0, BR112021013236-8, BR112021016266-6, BR112021024878-1, BR112022008250-9 e BR112022011753-1, desde que não ultrapasse a data de 28/10/2027.  De 28/10/2022 até 21/06/2024 para o Registro de Desenho Industrial DI6402093-2.</prazoVigenciaPI>
+          <observacao inid="Oc">1- A validade deste Certificado de Registro e Averbação está condicionada à regular situação dos direitos de propriedade industrial licenciados; 2- Faz parte do presente a CARTA/INPI/CGTEC/Nº1226/2022.</observacao>
+        </certificado>
+      </certificados>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>350</codigo>
+    <titulo>Certificado expedido</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2022 000578-0</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">CHEMETALL GMBH</nomeCompleto>
+          <endereco>
+            <pais>
+              <nome inid="Pe">ALEMANHA</nome>
+            </pais>
+          </endereco>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">CHEMETTALL DO BRASIL LTDA.</nomeCompleto>
+          <endereco>
+            <pais>
+              <nome inid="Ps">BRASIL</nome>
+            </pais>
+          </endereco>
+          <setor inid="Se">Fabricação de outros produtos químicos não especificados anteriormente</setor>
+        </cessionaria>
+      </cessionarias>
+      <dataProtocolo inid="De">03/11/2022</dataProtocolo>
+      <certificados>
+        <certificado>
+          <numero inid="Ca">702022000578/01</numero>
+          <naturezaDocumento inid="Nd">Contrato de 27/07/2022.</naturezaDocumento>
+          <textoObjeto inid="Ob">FT -  Fabricação de produtos químicos para o tratamento de superfície listados no Anexo 1 do Contrato</textoObjeto>
+          <siglaCategoria inid="Mc">FORNECIMENTO DE TECNOLOGIA</siglaCategoria>
+          <descricaoMoeda inid="Mo">EURO</descricaoMoeda>
+          <valorContrato inid="Va">3% (três por cento) do preço de venda líquido dos produtos contratuais, nos termos da cláusula 1, item 1.13 e da cláusula 6 do Contrato.</valorContrato>
+          <prazoContrato inid="Pz">De 03/11/2022 até 03/11/2027.</prazoContrato>
+          <prazoVigenciaPI inid="Pv"></prazoVigenciaPI>
+        </certificado>
+      </certificados>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>350</codigo>
+    <titulo>Certificado expedido</titulo>
+    <processo-contrato>
+      <numero inid="Np">BR 70 2022 000580-2</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">FRASA INGENIEROS CONSULTORES, S.L</nomeCompleto>
+          <endereco>
+            <pais>
+              <nome inid="Pe">ESPANHA</nome>
+            </pais>
+          </endereco>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">ALCOA WORLD ALUMINA BRASIL LTDA.</nomeCompleto>
+          <endereco>
+            <pais>
+              <nome inid="Ps">BRASIL</nome>
+            </pais>
+          </endereco>
+          <setor inid="Se">FUNDIÇÃO</setor>
+        </cessionaria>
+      </cessionarias>
+      <dataProtocolo inid="De">07/11/2022</dataProtocolo>
+      <certificados>
+        <certificado>
+          <numero inid="Ca">702022000580/01</numero>
+          <naturezaDocumento inid="Nd">Contrato de 27/09/2022</naturezaDocumento>
+          <textoObjeto inid="Ob">SAT - Serviços de consultoria em engenharia para estudos hidrogeológicos e pluviométricos nas regiões de Capiranga, Guaraná e Mauari, conforme detalhado nos anexos .</textoObjeto>
+          <siglaCategoria inid="Mc">SERVIÇO DE ASSISTÊNCIA TÉCNICA E CIENTÍFICA</siglaCategoria>
+          <descricaoMoeda inid="Mo">EURO</descricaoMoeda>
+          <valorContrato inid="Va">Até EUR 104.650,00</valorContrato>
+          <formaPagamento inid="Pg">Taxa/hora variando de EUR 40,00 a EUR 142,00</formaPagamento>
+          <prazoContrato inid="Pz">De 27/09/2022 até 31/12/2023</prazoContrato>
+          <prazoVigenciaPI inid="Pv"></prazoVigenciaPI>
+          <observacao inid="Oc">Faz parte do presente a CARTA/INPI/CGTEC/Nº1230/2022</observacao>
+        </certificado>
+      </certificados>
+    </processo-contrato>
+  </despacho>
+  <despacho>
+    <codigo>350</codigo>
+    <titulo>Certificado expedido</titulo>
+    <processo-contrato>
+      <numero inid="Np">812362</numero>
+      <cedentes>
+        <cedente>
+          <nomeCompleto inid="Ce">FESTO SE &amp; CO KG</nomeCompleto>
+          <endereco>
+            <pais>
+              <nome inid="Pe">ALEMANHA</nome>
+            </pais>
+          </endereco>
+        </cedente>
+      </cedentes>
+      <cessionarias>
+        <cessionaria>
+          <nomeCompleto inid="Cs">FESTO BRASIL LTDA</nomeCompleto>
+          <endereco>
+            <pais>
+              <nome inid="Ps">BRASIL</nome>
+            </pais>
+          </endereco>
+          <setor inid="Se">Fabricação de outras máquinas e equipamentos de uso geral não especificados anteriormente, peças e acessórios</setor>
+        </cessionaria>
+      </cessionarias>
+      <dataProtocolo inid="De">17/11/2022</dataProtocolo>
+      <certificados>
+        <certificado>
+          <numero inid="Ca">812362/24</numero>
+          <naturezaDocumento inid="Nd">Contrato de 27/12/1984 e Aditivos de 11/10/1985, 16/03/1992, 17/11/1999, 23/01/2008 e 24/05/2016.</naturezaDocumento>
+          <textoObjeto inid="Ob">UM - Licença exclusiva para os Registros de Marca listados no item &quot;Prazo  de Vigência dos Direitos de Propriedade Industrial&quot; - Alteração dos itens  &quot;Objeto&quot;, “Prazo de Vigência Declarado do Contrato” e “Prazo de Vigência  dos Direitos de Propriedade Industrial”.</textoObjeto>
+          <siglaCategoria inid="Mc">USO DE MARCA</siglaCategoria>
+          <valorContrato inid="Va">&quot;NIHIL&quot;.</valorContrato>
+          <prazoContrato inid="Pz">De 17/11/2022 até 25/01/2033.</prazoContrato>
+          <prazoVigenciaPI inid="Pv">De 17/11/2022 até: 18/11/2023 para o Registro 820547590; 12/08/2024 para os Registros 831021080, 831021110, 831021128 e 831021136; 21/01/2025 para o Registro 831021101; 13/08/2025 para o Registro 811583090; 26/04/2026 para o Registro 831021098; 12/05/2027 para o Registro 811583082; 29/05/2027 para o Registro 825318343; 26/12/2027 para o Registro 831021144; 25/09/2028 para o Registro 006771882. 27/01/2029 para o Registro 821583778; 10/05/2029 para o Registro 006935532; 25/01/2033 para o Registro 810034271.</prazoVigenciaPI>
+          <observacao inid="Oc">1) A  validade deste Certificado de Averbação está condicionada à regular situação das marcas licenciadas; 2) O presente altera e complementa os Certificados de Averbação nºs 018529/85, 019634/86, 021674/87, 023444/88 e 812362/05 até 812362/23. 3) Faz parte do presente a CARTA/INPI/CGTEC/N. 1236/2022.</observacao>
+        </certificado>
+      </certificados>
+    </processo-contrato>
+  </despacho>
+</revista>
